@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 echo "sachin is my name"
 echo "And i am Linux SA"
 echo "Do not give up"
 echo "You are brave"
+=======
+am sachin
+>>>>>>> devops2
